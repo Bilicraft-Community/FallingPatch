@@ -1,0 +1,4 @@
+name: FallingPatch
+version: ${project.version}
+main: com.bilicraft.fallingpatch.FallingPatch
+api-version: 1.17
